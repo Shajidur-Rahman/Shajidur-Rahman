@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shajidur-Rahman
-- 👀 I’m interested in reading book and coding, problem solving and also making website
-- 🌱 I’m currently learning js, node, react and some others
+- 👀 I’m interested in reading book and coding, problem solving and also projects.
+- 🌱 I’m currently learning c and AI with python.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... email: shajidurrahmansaad@gmail.com    linkedin:  Shajidur Rahman
 
