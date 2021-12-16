@@ -5,7 +5,7 @@
 I really enjoy learning something new about android like firebase, animation, activities. 
 I also love to solve harder programming problems. And my next goal is to solve 3+ programming problems in NHsPC.  And you can follow me on GitHub 
 
-Skills: Android / Python / Java / Problem solving / HTML / CSS
+####Skills: Android / Python / Java / Problem solving / HTML / CSS
 
 - 🔭 I’m currently working on On social media Chat app 
 - 🌱 I’m currently learning Android 
