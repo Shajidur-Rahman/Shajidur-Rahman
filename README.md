@@ -11,7 +11,7 @@ Skills: Android / Python / Java / Problem solving / HTML / CSS
 - 🌱 I’m currently learning Android 
 - 👯 I’m looking to collaborate on Android and Python 
 - 💬 Ask me about Android 
-- 📫 How to reach me: shajidurrahmansaad@gmail.com 
+- 📫 How to reach me: shajidurrahmansaad@proton.me
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Shajidur-Rahman)  
