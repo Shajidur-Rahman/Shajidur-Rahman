@@ -32,8 +32,12 @@ I am a tech enthusiast from Dinajpur, Bangladesh, currently pushing the boundari
 
 ### 📊 Performance Metrics
 <p align="left">
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=shajidur-Rahman&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shajidur-Rahman&layout=compact&langs_count=7&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Shajidur-Rahman&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Shajidur's GitHub Stats" height="175" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shajidur-Rahman&layout=compact&langs_count=7&theme=tokyonight" alt="Shajidur's Top Languages" height="175" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shajidur-Rahman&theme=tokyonight" alt="GitHub Streak" height="175" />
 </p>
 
 ---
