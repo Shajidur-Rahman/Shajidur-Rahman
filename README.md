@@ -12,7 +12,7 @@
 ### 🚀 The Mission
 I am a tech enthusiast from Dinajpur, Bangladesh, currently pushing the boundaries of what a student can achieve. I specialize in hardware-software integration and automated systems.
 
-- **🔬 Academic Sprint:** Currently fast-tracking the HSC Biology syllabus in just 6 months.
+- **🔬 Academic Sprint:** Currently fast-tracking the HSC syllabus in just 6 months.
 - **🤖 Robotics:** Engineering a Sign-Language-to-Voice Translation Glove for the '26 Science Fair.
 - **📡 Smart Systems:** Developed a Telegram-integrated water tank monitor using ESP-NOW.
 - **🐧 Linux:** Running a customized EndeavourOS environment on an HP Sleekbook.
