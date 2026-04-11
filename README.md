@@ -41,7 +41,7 @@ I am a tech enthusiast from Dinajpur, Bangladesh, currently pushing the boundari
 ### 🤝 Connect with Me
 I'm always looking for collaborators on IoT, Robotics, and Open Source projects.
 
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/Shajidur.Rahman.Official) 
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/shajidur.rahman.562043/) 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8801315039003)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shajidurrahmansaad@proton.me)
 
